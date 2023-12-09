@@ -1,0 +1,13 @@
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\bin\Debug\MiniWord_HoXuanDai.exe.config
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\bin\Debug\MiniWord_HoXuanDai.exe
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\bin\Debug\MiniWord_HoXuanDai.pdb
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.csproj.AssemblyReference.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.frmDai.resources
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.Properties.Resources.resources
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.csproj.GenerateResource.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.csproj.CoreCompileInputs.cache
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.exe
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.pdb
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\bin\Debug\MaterialSkin.dll
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\bin\Debug\WindowsInput.dll
+D:\Study\Nam4_HK1\LapTrinhWindows\MiniWord_HoXuanDai\MiniWord_HoXuanDai\obj\Debug\MiniWord_HoXuanDai.csproj.CopyComplete
